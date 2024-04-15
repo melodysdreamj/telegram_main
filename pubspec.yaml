@@ -1,7 +1,7 @@
 name: telegram_main
-description: "Description here"
+description: "telegram main page by june"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/juneflow
+repository: https://github.com/melodysdreamj/telegram_main
 
 version: 1.0.0+1
 

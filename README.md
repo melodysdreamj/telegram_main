@@ -15,9 +15,9 @@
     ```
 3. start the project by entering the following command.
     ```bash
-    flutter run [execute file path here] -d chrome
+    flutter run lib/app/_/_/interaction/view.blueprint/page/telegram_main/_/view.dart -d chrome
     ```
 
 ## Screenshots
-![]()
+![](https://github.com/melodysdreamj/telegram_main/assets/21379657/a02fb874-4497-4834-a709-f0fded9d4be3)
 
