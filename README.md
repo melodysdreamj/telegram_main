@@ -19,5 +19,5 @@
     ```
 
 ## Screenshots
-![](https://github.com/melodysdreamj/telegram_main/assets/21379657/a02fb874-4497-4834-a709-f0fded9d4be3)
+![](https://github.com/melodysdreamj/telegram_main/assets/21379657/f306dfd8-f664-4d76-8175-59e7460ba449)
 
